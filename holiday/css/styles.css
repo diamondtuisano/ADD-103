@@ -1,0 +1,48 @@
+/* Set colors for the page */
+body {
+  background-color: ivory;
+  color: rgb(44, 42, 42); /* this is the font color*/
+}
+
+/* create styles for the h1 tag */
+
+/* Sample - pick your own colors and settings. Make sure to include the ; at the end of the line
+
+h1{
+    color: black;
+    font-family: ; Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    font-size: larger;
+    text-align: center;
+}
+/* 
+
+h2{
+  color: black
+  font-family: Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: larger;
+  text-align: left;
+}
+/*
+
+h3{
+  color: black;
+  font-family: Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: larger;
+  text-align: left;
+}
+/*
+
+p {
+  color: black;
+  font-family: Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: medium;
+  text-align: left;
+}
+/*
+
+img {
+  width: 60%;
+  display: block;
+  margin: 10px auto;
+}
+/*
