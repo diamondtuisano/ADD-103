@@ -1,0 +1,43 @@
+html {
+  font-size: 12;
+}
+
+nav a{
+    color:rgb(107, 142, 173);
+    background-color:rgb(34, 74, 108);
+    padding: 10px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 6px;
+}
+
+nav a:hover {
+    color:rgb(199, 219, 236);
+    background-color:rgb(43, 89, 129)
+}
+
+body {
+    display: inline-block;
+    font-family:'Courier New', Courier, monospace;
+    color:rgb(78, 108, 135);
+}
+a.one:link {color:red;}
+a.one:visited {color:blue;}
+a.one:hover {color:orange;}
+
+a.two:link {color:red;}
+a.two:visited {color:blue;}
+a.two:hover {font-size:150%;}
+
+a.three:link {color:red;}
+a.three:visited {color:blue;}
+a.three:hover {background:lightgreen;}
+
+a.four:link {color:red;}
+a.four:visited {color:blue;}
+a.four:hover {font-family:monospace;}
+
+a.five:link {color:red;text-decoration:none;}
+a.five:visited {color:blue;text-decoration:none;}
+a.five:hover {text-decoration:underline;}
